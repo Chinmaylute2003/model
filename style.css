@@ -1,0 +1,32 @@
+.background-image{
+    background: url('./img and icons/model-blackbackground.avif');    
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.brand-logo{
+    background: url('./img and icons/brand_logo_edited.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 60px; 
+    border: 2px solid white;
+   
+}
+
+#navbar-box{
+    padding: 0 20px;
+}
+
+.quote-box{
+    font-size: xxx-large;
+    position: relative;
+    top: 10%;
+    left: 75%;
+    color: white;
+    text-align: center;
+    width: 20%;
+}
